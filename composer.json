@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "composer_libs"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^13.2"
+    }
+}
